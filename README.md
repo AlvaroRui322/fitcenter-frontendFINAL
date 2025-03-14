@@ -82,8 +82,6 @@ Las vistas principales de la aplicación incluyen:
 - **CreateRoutine**: Página para crear una nueva rutina de ejercicios.
 - **Contact**: Página de contacto.
 
-## Estilos
-Los estilos de la aplicación están organizados en varios archivos CSS dentro del directorio `assets`. Esto permite una fácil gestión y mantenimiento de los estilos.
 
 ## Ejecución del Proyecto
 Para ejecutar el proyecto, sigue estos pasos:
@@ -92,8 +90,6 @@ Para ejecutar el proyecto, sigue estos pasos:
 2. Instala las dependencias con `npm install`.
 3. Ejecuta el servidor de desarrollo con `npm run dev`.
 
-## Contribución
-Si deseas contribuir al proyecto, por favor sigue las guías de contribución y asegúrate de probar tus cambios antes de enviar un pull request.
+#Despliegue
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+[Enlace al despliegue] (https://mellifluous-dango-182f27.netlify.app/)
