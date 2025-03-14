@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://127.0.0.1:8000/api",
+    baseURL: "https://fitcenterapifinal-production-4216.up.railway.app/api",
     withCredentials: true, // Puedes dejarlo si usas cookies, pero para tokens no es necesario
 });
 
